@@ -1,4 +1,4 @@
-#include "dht.h"
+#include "dht11.h"
 
 int wait_for_state(dht11_t dht11,int state,int timeout)
 {
